@@ -51,7 +51,7 @@ A RESTful API built with **FastAPI** for managing a book collection. The API pro
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/book-api.git
+git clone https://github.com/ritam1303/bookstoreapi/tree/main
 cd book-api
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
